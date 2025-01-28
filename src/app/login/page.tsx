@@ -99,7 +99,7 @@ const SignIn: React.FC = () => {
             height="100"
             decoding="async"
             className="h-8"
-            src="/img2.png"
+            src="/nike.png"
             style={{ color: "transparent" }}
           />
         </div>
